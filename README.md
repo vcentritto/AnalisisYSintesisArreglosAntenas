@@ -31,7 +31,7 @@ A continuación, se muestran *diagramas de radiación con sus respectivas caract
 </p> <br>
 
 ## Síntesis de arreglos de antenas
-Este código permite encontrar la **amplitud-fase** de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**. Del arreglo, se conoce: el *número de elementos*, la *distancia inter-elemento* y la *distribución geometríca de los elementos*. <br>         
+Este código permite encontrar la **amplitud-fase** de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**. Exceptuando el método de Laxpati, se conocen las siguientes características del arreglo: el *número de elementos*, la *distancia inter-elemento* y la *distribución geometríca de los elementos*. <br>         
 Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o en el plano. <br>
 
 [![M-dulo-S-ntesis-Lineal.png](https://i.postimg.cc/T1bTsv9Q/M-dulo-S-ntesis-Lineal.png)](https://postimg.cc/7JxvCcjT)
@@ -45,8 +45,7 @@ Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o
 </p> <br>
 
 ### Método de variación de la fase entre elementos para arreglos lineales y en el plano
-Este método permite **ubicar al lóbulo principal** en cualquier posición del diagrama de radiación. Este código permite encontrar el *desfasaje entre elementos del arreglo* y el diagrama de radiación generado a partir de dicho resultado.
-
+Este método permite **ubicar al lóbulo principal** en cualquier posición del diagrama de radiación. Este código encuentra el *desfasaje entre elementos del arreglo* y obtiene el diagrama de radiación deseado.
 [![Lineal-polares.png](https://i.postimg.cc/MTfpRQhn/Lineal-polares.png)](https://postimg.cc/k69CPBMC)
 <p align="center">
  Diagrama de radiación cuyo lóbulo principal está en θ₀ = 45°, mediante un desfasaje entre elementos de -127.28°. <br>
@@ -62,24 +61,34 @@ Este método permite **ubicar al lóbulo principal** en cualquier posición del 
 ### Método de Dolph-Chebyshev para arreglos lineales y Método de Dolph-Chebyshev Mejorado para arreglos en el plano
 Este método permite generar un **nivel relativo de lóbulos laterales específico** en el diagrama de radiación. Además, permite **ubicar al lóbulo principal** en cualquier posición de dicho diagrama. <br>
 
-- *Método de Dolph-Chebyshev*: Aplica para arreglos lineales. Este código permite encontrar la *amplitud-fase de cada elemento del arreglo lineal* y el diagrama de radiación que cumple con el NRLL solicitado. <br>
+- *Método de Dolph-Chebyshev*: Aplica para arreglos lineales. Este código halla la *amplitud-fase de cada elemento del arreglo lineal* y genera el diagrama de radiación que cumple con el NRLL solicitado. <br>
 
 [![Lineal-cartesianas-escala-logaritmica.png](https://i.postimg.cc/SsmJ0s5R/Lineal-cartesianas-escala-logaritmica.png)](https://postimg.cc/QBnX1XjZ)
 <p align="center">
- Diagrama de radiación con NRLL de -20 dB, mediante la obtención de la distribución de amplitud. <br>
- Producto de un arreglo lineal de 8 elementos, distancia inter-elemento de 0.5λ y posición θ₀ = 45° .
+ Diagrama de radiación con NRLL de -20 dB, mediante las 8 excitaciones complejas calculadas por este código. <br>
+ Producto de un arreglo lineal de 8 elementos, distancia inter-elemento de 0.5λ y θ₀ = 45° .
 </p> <br>
 
-- *Método de Dolph-Chebyshev Mejorado*: Es una ampliación del método de Dolph-Chebyshev, que se aplica para arreglos en el plano. Este cófigo permite encontrar la *amplitud-fase de cada elemento del arreglo planar*, así como el diagrama de radiación con el NRLL previamente especificado. <br>
+- *Método de Dolph-Chebyshev Mejorado*: Es una ampliación del método de Dolph-Chebyshev, que se aplica para arreglos en el plano. Este código obtiene la *amplitud-fase de cada elemento del arreglo planar*, así como el diagrama de radiación con el NRLL previamente especificado. <br>
+
 *Si quieres conocer más sobre este método*: [Optimum scannable planar arrays with an invariant sidelobe level](https://ieeexplore.ieee.org/document/1448679).
 
 [![Plano-cartesianas-escala-logaritmica.png](https://i.postimg.cc/2yK6Bx5L/Plano-cartesianas-escala-logaritmica.png)](https://postimg.cc/JHjmfZZR)
 <p align="center">
- Diagrama de radiación con NRLL de -20 dB, mediante la obtención de la distribución de amplitud. <br>
- Producto de un arreglo en el plano de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy) y posición θ₀ = 35° y ϕ₀ = -15°.
+ Diagrama de radiación con NRLL de -20 dB, mediante las 8 excitaciones complejas calculadas por este código. <br>
+ Producto de un arreglo en el plano de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy), θ₀ = 35° y ϕ₀ = -15°.
 </p> <br>
 
-### Método de Laxpati
+### Método de Laxpati para arreglos en el plano
+Este método permite **generar nulos arbitrarios** en cualquier posición del diagrama de radiación. Este código encuentra la *amplitud-fase de cada elemento del arreglo* y obtiene el diagrama de radiación con los nulos en las posiciones requeridas. <br>
+
+*Si quieres conocer más sobre este método*: [Planar array synthesis with prescribed pattern nulls](https://ieeexplore.ieee.org/abstract/document/1142961).
+
+[![4.png](https://i.postimg.cc/MGgvsw23/4.png)](https://postimg.cc/mcNLD0r7)
+<p align="center">
+ Diagrama de radiación con 3 nulos en las posiciones solicitadas, mediante las 4 excitaciones complejas calculadas por este código. <br>
+ Producto de un arreglo planar con geometría romboidal, 𝒹₁ = 𝒹₂ = 0.5λ / ϕ₁ = 0° y ϕ₂ = 90°.
+</p> <br>
 
 
 
