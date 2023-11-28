@@ -3,7 +3,7 @@ Este código en MATLAB permite realizar el análisis y síntesis de arreglos de 
 
 [![Principal.png](https://i.postimg.cc/g0dv0MhM/Principal.png)](https://postimg.cc/k21V1vf8)
 <p align="center">
- **Módulo Principal del Programa**
+ Módulo Principal del Programa
 </p>
 
 ## Análisis de arreglos de antenas
@@ -15,6 +15,10 @@ Además, con este código se calculan las **características más importantes de
 - Posiciones de los nulos en el diagrama de radiación.
 - Ancho del haz principal y ancho del haz a - 3 dB.
 - Directividad máxima.
+
+  [![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/Wb8Dn2q7/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/JGy47Cqy)
+
+  
   
 ## Cómo utiizar
 
