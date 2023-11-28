@@ -16,7 +16,7 @@ Además, con este código se calculan las **características más importantes de
 - Ancho del haz principal y ancho del haz a - 3 dB.
 - Directividad máxima.
 
-<br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
 [![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/Wb8Dn2q7/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/JGy47Cqy)
 <p align="center">
  Diagrama de radiación producto de un arreglo lineal de 4 elementos, distancia inter-elemento de 0.5λ y desfasaje entre elementos de 30°.
