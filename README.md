@@ -1,5 +1,6 @@
 # Análisis y Síntesis de Arreglos de Antenas
-Este código en MATLAB permite realizar el análisis y síntesis de arreglos de antenas lineales de *N elementos* y de arreglos en el plano de *NxN elementos*. Los elementos radiantes de estos arreglos son considerados **isotrópicos** o con un **diagrama de radiación conocido**. <br>
+Este código en MATLAB permite realizar el análisis y síntesis de arreglos de antenas lineales de *N elementos* y de arreglos en el plano de *NxN elementos*.<br>
+Los elementos radiantes de estos arreglos son considerados **isotrópicos** o con un **diagrama de radiación conocido**.<br>
 
 [![Principal.png](https://i.postimg.cc/g0dv0MhM/Principal.png)](https://postimg.cc/k21V1vf8)
 <p align="center">
