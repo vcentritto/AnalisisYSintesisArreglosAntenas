@@ -22,12 +22,34 @@ Además, con este código se calculan las **características más importantes de
  Diagrama de radiación producto de un arreglo lineal de 4 elementos, distancia inter-elemento de 0.5λ y desfasaje entre elementos de 30°.
 </p>
 
+
+
 [![Plano-cartesianas-escla-lineal.png](https://i.postimg.cc/k4jJS5pV/Plano-cartesianas-escla-lineal.png)](https://postimg.cc/wymY89HH)
 
 <p align="center">
  Diagrama de radiación producto de un arreglo en el plano *xy* de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy) y desfasaje entre elementos de 65° en dirección x y 75* en dirección y.
 </p>
-  
+
+## Síntesis de arreglos de antenas
+Este código permite encontrar la amplitud-fase de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**.
+Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o en el plano.
+
+[![M-dulo-S-ntesis-Lineal.png](https://i.postimg.cc/T1bTsv9Q/M-dulo-S-ntesis-Lineal.png)](https://postimg.cc/7JxvCcjT)
+
+<p align="center">
+ Métodos de Síntesis para arreglos lineales.
+</p>
+
+
+[![M-dulo-S-ntesis-Plano.png](https://i.postimg.cc/jqfKtKH4/M-dulo-S-ntesis-Plano.png)](https://postimg.cc/qgpWxPZN)
+
+<p align="center">
+ Métodos de Síntesis para arreglos en el plano.
+</p>
+
+### Método de variación de la fase entre elementos para arreglos lineales y en el plano
+
+
 ## Cómo utiizar
 
 Descarga todos los scripts del repositorio y ubicalos en una misma carpeta.
