@@ -55,7 +55,7 @@ Este método permite **ubicar al lóbulo principal** en cualquier posición del 
 
 [![Plano-esf-ricas-logar-tmica.png](https://i.postimg.cc/Pq2SZLmn/Plano-esf-ricas-logar-tmica.png)](https://postimg.cc/d7ZRcVH5)
 <p align="center">
- Diagrama de radiación cuyo lóbulo principal está en θ₀ = 45° y ϕ₀ = 45°, mediante un desfasaje entre elementos de -90° en dirección x e y. <br>
+ Diagrama de radiación cuyo lóbulo principal está en θ₀ = ϕ₀ = 45°, mediante un desfasaje entre elementos de -90° en dirección x e y. <br>
  Producto de un arreglo en el plano de 16 elementos (Nx = Ny) y distancia inter-elemento de 0.5λ (dx = dy).
 </p> <br>
 
@@ -64,12 +64,22 @@ Este método permite generar un **nivel relativo de lóbulos laterales específi
 
 - *Método de Dolph-Chebyshev*: Aplica para arreglos lineales. Este código permite encontrar la *amplitud-fase de cada elemento del arreglo lineal* y el diagrama de radiación que cumple con el NRLL solicitado. <br>
 
-
+[![Lineal-cartesianas-escala-logaritmica.png](https://i.postimg.cc/SsmJ0s5R/Lineal-cartesianas-escala-logaritmica.png)](https://postimg.cc/QBnX1XjZ)
+<p align="center">
+ Diagrama de radiación con NRLL de -20 dB, mediante la obtención de la distribución de amplitud. <br>
+ Producto de un arreglo lineal de 8 elementos, distancia inter-elemento de 0.5λ y posición θ₀ = 45° .
+</p> <br>
 
 - *Método de Dolph-Chebyshev Mejorado*: Es una ampliación del método de Dolph-Chebyshev, que se aplica para arreglos en el plano. Este cófigo permite encontrar la *amplitud-fase de cada elemento del arreglo planar*, así como el diagrama de radiación con el NRLL previamente especificado. <br>
 *Si quieres conocer más sobre este método*: [Optimum scannable planar arrays with an invariant sidelobe level](https://ieeexplore.ieee.org/document/1448679).
 
-### Método de Dolph-Chebyshev para arreglos lineales y Método de Dolph-Chebyshev Mejorado para arreglos en el plano
+[![Plano-cartesianas-escala-logaritmica.png](https://i.postimg.cc/2yK6Bx5L/Plano-cartesianas-escala-logaritmica.png)](https://postimg.cc/JHjmfZZR)
+<p align="center">
+ Diagrama de radiación con NRLL de -20 dB, mediante la obtención de la distribución de amplitud. <br>
+ Producto de un arreglo en el plano de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy) y posición θ₀ = 35° y ϕ₀ = -15°.
+</p> <br>
+
+### Método de Laxpati
 
 
 
