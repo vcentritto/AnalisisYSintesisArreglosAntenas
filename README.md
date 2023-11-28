@@ -10,5 +10,5 @@ Luego, abre y ejecuta en MATLAB el script **AnalisisySintesisdeArreglosPrincipal
 En el Command Prompt podrás ver el menú inicial del programa.
 
 <p align="center">
-// # Análisis y Síntesis de Arreglos de Antenas
+ Análisis y Síntesis de Arreglos de Antenas
 </p>
