@@ -23,7 +23,6 @@ Además, con este código se calculan las **características más importantes de
 </p>
 
 
-
 [![Plano-cartesianas-escla-lineal.png](https://i.postimg.cc/k4jJS5pV/Plano-cartesianas-escla-lineal.png)](https://postimg.cc/wymY89HH)
 
 <p align="center">
