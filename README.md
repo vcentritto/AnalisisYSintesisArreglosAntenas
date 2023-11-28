@@ -7,7 +7,7 @@ Este código en MATLAB permite realizar el análisis y síntesis de arreglos de 
 </p> 
 
 ## Análisis de arreglos de antenas
-Este código permite generar y estudiar diagramas de radiación de arreglos lineales y en el plano, conociendo del arreglo: **el número de elementos**, **la distancia inter-elemento**, **la amplitud de cada elemento** y el **el desfasaje progresivo entre elementos**.
+Este código permite generar y estudiar diagramas de radiación de arreglos lineales y en el plano, conociendo del arreglo: *el número de elementos*, *la distancia inter-elemento*, *la amplitud de cada elemento* y el *el desfasaje progresivo entre elementos* y la *distribución geometríca de los elementos*.
 
 Además, con este código se calculan las **características más importantes de un diagrama de radiación** de forma numérica y gráfica. Algunas de esas características son las siguientes: 
 - Posición del lóbulo principal.
@@ -27,8 +27,8 @@ Además, con este código se calculan las **características más importantes de
 </p>
 
 ## Síntesis de arreglos de antenas
-Este código permite encontrar la amplitud-fase de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**.           Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o en el plano.
-<br> <br>
+Este código permite encontrar la **amplitud-fase** de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**. Del arreglo, se conoce: el *número de elementos*, la *distancia inter-elemento* y la *distribución geometríca de los elementos*. <br>         
+Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o en el plano. <br>
 
 [![M-dulo-S-ntesis-Lineal.png](https://i.postimg.cc/T1bTsv9Q/M-dulo-S-ntesis-Lineal.png)](https://postimg.cc/7JxvCcjT)
 <p align="center">
