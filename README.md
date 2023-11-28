@@ -2,7 +2,7 @@
 Este código en MATLAB permite realizar el análisis y síntesis de arreglos de antenas lineales de *N elementos* y de arreglos en el plano de *NxN elementos*. Los elementos radiantes de estos arreglos son considerados **isotrópicos** o con un **diagrama de radiación conocido**. <br>
 
 
-[![Principal.png](https://i.postimg.cc/g0dv0MhM/Principal.png)](https://postimg.cc/k21V1vf8)
+[![Principal.png](https://i.postimg.cc/fb6TZvb8/Principal.png)](https://postimg.cc/qtxdxyyK)
 <p align="center">
  Módulo Principal del Programa
 </p> 
@@ -76,7 +76,7 @@ Este método permite generar un **nivel relativo de lóbulos laterales específi
 [![Plano-cartesianas-escala-logaritmica.png](https://i.postimg.cc/2yK6Bx5L/Plano-cartesianas-escala-logaritmica.png)](https://postimg.cc/JHjmfZZR)
 <p align="center">
  Diagrama de radiación con NRLL de -20 dB, mediante las 8 excitaciones complejas calculadas por este código. <br>
- Producto de un arreglo en el plano de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy), θ₀ = 35° y ϕ₀ = -15°.
+ Producto de un arreglo planar de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy), θ₀ = 35° y ϕ₀ = -15°.
 </p> <br>
 
 ### Método de Laxpati para arreglos en el plano
@@ -87,17 +87,18 @@ Este método permite **generar nulos arbitrarios** en cualquier posición del di
 [![4.png](https://i.postimg.cc/MGgvsw23/4.png)](https://postimg.cc/mcNLD0r7)
 <p align="center">
  Diagrama de radiación con 3 nulos en las posiciones solicitadas, mediante las 4 excitaciones complejas calculadas por este código. <br>
- Producto de un arreglo planar con geometría romboidal, 𝒹₁ = 𝒹₂ = 0.5λ / ϕ₁ = 0° y ϕ₂ = 90°.
+ Producto de un arreglo planar con geometría romboidal, 𝒹₁ = 𝒹₂ = 0.5λ, ϕ₁ = 0° y ϕ₂ = 90°.
 </p> <br>
 
+## ¿Cómo se descarga y cómo se utiliza este código?
 
+Debes descargar la carpeta *Programa de análisis y síntesis de arreglos lineales y en el plano* del repositorio, esta contiene todos los *scripts.m*. Debes ejecutar el script *AnalisisySintesisdeArreglosPrincipal.m* desde Maltab, para que así se despliegue el *Menú Principal* del programa en el *Command Window*. <br>
 
-## Cómo utiizar
+[![Menu-Principal.png](https://i.postimg.cc/qBG0Zr2b/Menu-Principal.png)](https://postimg.cc/G99ZHZ7G)
+<p align="center">
+ Menú Principal del programa
+</p> <br>
 
-Descarga todos los scripts del repositorio y ubicalos en una misma carpeta.
-
-Luego, abre y ejecuta en MATLAB el script **AnalisisySintesisdeArreglosPrincipal.m**
-
-En el Command Prompt podrás ver el menú inicial del programa.
-
+- *MANUAL DE USUARIO*: Si tienes dudas sobre el código o sobre cómo ejecutar los módulos del programa, este manual te puede servir de ayuda: [Manual de Usuario](https://www.canva.com/design/DAF1BL1ZXV4/0zUC3pn7QsMQb4GRPp4Fbg/edit?utm_content=DAF1BL1ZXV4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
+  También puedes descargar el PDF desde el repositorio.
 
