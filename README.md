@@ -1,6 +1,6 @@
 # Análisis y Síntesis de Arreglos de Antenas
 Este código en MATLAB permite realizar el análisis y síntesis de arreglos de antenas lineales de *N elementos* y de arreglos en el plano de *NxN elementos*.<br>
-Los elementos radiantes de estos arreglos son considerados **isotrópicos** o con un **diagrama de radiación conocido**.<br>
+Los elementos radiantes de estos arreglos son considerados **isotrópicos** o con un **diagrama de radiación conocido**. <br>
 
 [![Principal.png](https://i.postimg.cc/g0dv0MhM/Principal.png)](https://postimg.cc/k21V1vf8)
 <p align="center">
@@ -25,7 +25,7 @@ Además, con este código se calculan las **características más importantes de
 [![Plano-cartesianas-escla-lineal.png](https://i.postimg.cc/k4jJS5pV/Plano-cartesianas-escla-lineal.png)](https://postimg.cc/wymY89HH)
 <p align="center">
  Diagrama de radiación producto de un arreglo en el plano xy de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy) y desfasaje entre elementos de 65° en dirección x y 75* en dirección y.
-</p>
+</p> <br>
 
 ## Síntesis de arreglos de antenas
 Este código permite encontrar la **amplitud-fase** de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**. Del arreglo, se conoce: el *número de elementos*, la *distancia inter-elemento* y la *distribución geometríca de los elementos*. <br>         
@@ -39,7 +39,7 @@ Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o
 [![M-dulo-S-ntesis-Plano.png](https://i.postimg.cc/jqfKtKH4/M-dulo-S-ntesis-Plano.png)](https://postimg.cc/qgpWxPZN)
 <p align="center">
  Métodos de Síntesis para arreglos en el plano.
-</p>
+</p> <br>
 
 ### Método de variación de la fase entre elementos para arreglos lineales y en el plano
 
