@@ -20,6 +20,7 @@ Además, con este código se calculan las **características más importantes de
 <p align="center">
  Diagrama de radiación producto de un arreglo lineal de 4 elementos, distancia inter-elemento de 0.5λ y desfasaje entre elementos de 30°.
 </p>
+
 [![Plano-cartesianas-escla-lineal.png](https://i.postimg.cc/k4jJS5pV/Plano-cartesianas-escla-lineal.png)](https://postimg.cc/wymY89HH)
 <p align="center">
  Diagrama de radiación producto de un arreglo en el plano xy de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy) y desfasaje entre elementos de 65° en dirección x y 75* en dirección y.
@@ -32,6 +33,7 @@ Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o
 <p align="center">
  Métodos de Síntesis para arreglos lineales.
 </p>
+
 [![M-dulo-S-ntesis-Plano.png](https://i.postimg.cc/jqfKtKH4/M-dulo-S-ntesis-Plano.png)](https://postimg.cc/qgpWxPZN)
 <p align="center">
  Métodos de Síntesis para arreglos en el plano.
