@@ -33,7 +33,7 @@ Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o
 [![M-dulo-S-ntesis-Lineal.png](https://i.postimg.cc/T1bTsv9Q/M-dulo-S-ntesis-Lineal.png)](https://postimg.cc/7JxvCcjT)
 <p align="center">
  Métodos de Síntesis para arreglos lineales.
-</p>
+</p> <br>
 
 [![M-dulo-S-ntesis-Plano.png](https://i.postimg.cc/jqfKtKH4/M-dulo-S-ntesis-Plano.png)](https://postimg.cc/qgpWxPZN)
 <p align="center">
