@@ -27,9 +27,8 @@ Además, con este código se calculan las **características más importantes de
 </p>
 
 ## Síntesis de arreglos de antenas
-Este código permite encontrar la amplitud-fase de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**.
-Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o en el plano.
-<br>
+Este código permite encontrar la amplitud-fase de cada elemento de un arreglo lineal o en el plano, con el objetivo de generar un diagrama de radiación que cumple con **características específicas**.           Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o en el plano.
+<br> <br>
 
 [![M-dulo-S-ntesis-Lineal.png](https://i.postimg.cc/T1bTsv9Q/M-dulo-S-ntesis-Lineal.png)](https://postimg.cc/7JxvCcjT)
 <p align="center">
