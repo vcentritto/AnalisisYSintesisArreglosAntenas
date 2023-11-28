@@ -50,7 +50,13 @@ Este método permite **ubicar al lóbulo principal** en cualquier posición del 
 [![Lineal-polares.png](https://i.postimg.cc/MTfpRQhn/Lineal-polares.png)](https://postimg.cc/k69CPBMC)
 <p align="center">
  Diagrama de radiación cuyo lóbulo principal está en θ₀ = 45°, mediante un desfasaje entre elementos de -127.28°. <br>
- Producto de un arreglo lineal de 4 elementos y distancia inter-elemento de 0.5λ.
+ Producto de un arreglo lineal de 16 elementos y distancia inter-elemento de 0.5λ.
+</p> <br>
+
+[![Plano-esf-ricas-logar-tmica.png](https://i.postimg.cc/Pq2SZLmn/Plano-esf-ricas-logar-tmica.png)](https://postimg.cc/d7ZRcVH5)
+<p align="center">
+ Diagrama de radiación cuyo lóbulo principal está en θ₀ = 45° y ϕ₀ = 45°, mediante un desfasaje entre elementos de -90° en dirección x e y. <br>
+ Producto de un arreglo en el plano de 16 elementos (Nx = Ny) y distancia inter-elemento de 0.5λ (dx = dy).
 </p> <br>
 
 ### Método de Dolph-Chebyshev para arreglos lineales y Método de Dolph-Chebyshev Mejorado para arreglos en el plano
