@@ -16,8 +16,7 @@ Además, con este código se calculan las **características más importantes de
 - Ancho del haz principal y ancho del haz a - 3 dB.
 - Directividad máxima.
 
-  [![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/Wb8Dn2q7/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/JGy47Cqy)
-
+[![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/tg37spbP/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/mcrTqxt2)
   
   
 ## Cómo utiizar
