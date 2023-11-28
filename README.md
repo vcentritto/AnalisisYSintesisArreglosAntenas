@@ -72,7 +72,7 @@ Este método permite generar un **nivel relativo de lóbulos laterales específi
 
 - *Método de Dolph-Chebyshev Mejorado*: Es una ampliación del método de Dolph-Chebyshev, que se aplica para arreglos en el plano. Este código obtiene la *amplitud-fase de cada elemento del arreglo planar*, así como el diagrama de radiación con el NRLL previamente especificado. <br>
 
-*Si quieres conocer más sobre este método*: [Optimum scannable planar arrays with an invariant sidelobe level](https://ieeexplore.ieee.org/document/1448679).
+  *Si quieres conocer más sobre este método*: [Optimum scannable planar arrays with an invariant sidelobe level](https://ieeexplore.ieee.org/document/1448679).
 
 [![Plano-cartesianas-escala-logaritmica.png](https://i.postimg.cc/2yK6Bx5L/Plano-cartesianas-escala-logaritmica.png)](https://postimg.cc/JHjmfZZR)
 <p align="center">
@@ -93,7 +93,7 @@ Este método permite **generar nulos arbitrarios** en cualquier posición del di
 
 ## ¿Cómo se descarga y cómo se utiliza este código?
 
-Debes descargar la carpeta *Programa de análisis y síntesis de arreglos lineales y en el plano* del repositorio, esta contiene todos los *scripts.m*. Debes ejecutar el script *AnalisisySintesisdeArreglosPrincipal.m* desde Maltab, para que así se despliegue el *Menú Principal* del programa en el *Command Window*. <br>
+Debes descargar la carpeta *Programa de análisis y síntesis de arreglos lineales y en el plano* del repositorio, esta contiene todos los *scripts.m*. Desde MALTAB, tienes que ejecutar el script *AnalisisySintesisdeArreglosPrincipal.m*, para que así se despliegue el *Menú Principal* del programa en el *Command Window*. <br>
 
 [![Menu-Principal.png](https://i.postimg.cc/qBG0Zr2b/Menu-Principal.png)](https://postimg.cc/G99ZHZ7G)
 <p align="center">
