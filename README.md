@@ -14,8 +14,11 @@ Además, con este código se calculan las **características más importantes de
 - Posición del lóbulo principal.
 - Posiciones de los lóbulos secundarios.
 - Posiciones de los nulos en el diagrama de radiación.
+- Nivel relativo de los lóbulos laterales (NRLL).
 - Ancho del haz principal y ancho del haz a - 3 dB.
 - Directividad máxima.
+
+A continuación, se muestran *diagramas de radiación con sus respectivas características principales* representadas gráficamente. Dichos diagramas los puedes obtener mediante este programa.
 
 [![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/Wb8Dn2q7/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/JGy47Cqy)
 <p align="center">
