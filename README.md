@@ -47,14 +47,23 @@ Se pueden encontrar distintos **métodos de síntesis** para arreglos lineales o
 ### Método de variación de la fase entre elementos para arreglos lineales y en el plano
 Este método permite **ubicar al lóbulo principal** en cualquier posición del diagrama de radiación. Este código permite encontrar el *desfasaje entre elementos del arreglo* y el diagrama de radiación generado a partir de dicho resultado.
 
+[![Lineal-polares.png](https://i.postimg.cc/MTfpRQhn/Lineal-polares.png)](https://postimg.cc/k69CPBMC)
+<p align="center">
+ Diagrama de radiación cuyo lóbulo principal está en θ₀ = 45°, mediante un desfasaje entre elementos de -127.28°. <br>
+ Producto de un arreglo lineal de 4 elementos y distancia inter-elemento de 0.5λ.
+</p> <br>
+
 ### Método de Dolph-Chebyshev para arreglos lineales y Método de Dolph-Chebyshev Mejorado para arreglos en el plano
 Este método permite generar un **nivel relativo de lóbulos laterales específico** en el diagrama de radiación. Además, permite **ubicar al lóbulo principal** en cualquier posición de dicho diagrama. <br>
 
 - *Método de Dolph-Chebyshev*: Aplica para arreglos lineales. Este código permite encontrar la *amplitud-fase de cada elemento del arreglo lineal* y el diagrama de radiación que cumple con el NRLL solicitado. <br>
 
-- *Método de Dolph-Chebyshev Mejorado*: Es una ampliación del método de Dolph-Chebyshev, que se aplica para arreglos en el plano. Este cófigo permite encontrar la *amplitud-fase de cada elemento del arreglo planar*, así como el diagrama de radiación con el NRLL previamente especificado. <br>
-Si quieres conocer más sobre este método -> [Optimum scannable planar arrays with an invariant sidelobe level](https://ieeexplore.ieee.org/document/1448679).
 
+
+- *Método de Dolph-Chebyshev Mejorado*: Es una ampliación del método de Dolph-Chebyshev, que se aplica para arreglos en el plano. Este cófigo permite encontrar la *amplitud-fase de cada elemento del arreglo planar*, así como el diagrama de radiación con el NRLL previamente especificado. <br>
+*Si quieres conocer más sobre este método*: [Optimum scannable planar arrays with an invariant sidelobe level](https://ieeexplore.ieee.org/document/1448679).
+
+### Método de Dolph-Chebyshev para arreglos lineales y Método de Dolph-Chebyshev Mejorado para arreglos en el plano
 
 
 
