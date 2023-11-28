@@ -53,7 +53,7 @@ Este método permite generar un **nivel relativo de lóbulos laterales específi
 - *Método de Dolph-Chebyshev*: Aplica para arreglos lineales. Este código permite encontrar la *amplitud-fase de cada elemento del arreglo lineal* y el diagrama de radiación que cumple con el NRLL solicitado. <br>
 
 - *Método de Dolph-Chebyshev Mejorado*: Es una ampliación del método de Dolph-Chebyshev, que se aplica para arreglos en el plano. Este cófigo permite encontrar la *amplitud-fase de cada elemento del arreglo planar*, así como el diagrama de radiación con el NRLL previamente especificado. <br>
-Si quieres conocer más sobre este método -> [Optimum scannable planar arrays with an invariant sidelobe level] (https://ieeexplore.ieee.org/document/1448679).
+Si quieres conocer más sobre este método -> [Optimum scannable planar arrays with an invariant sidelobe level](https://ieeexplore.ieee.org/document/1448679).
 
 
 
