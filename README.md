@@ -20,7 +20,7 @@ Además, con este código se calculan las **características más importantes de
 
 A continuación, se muestran *diagramas de radiación con sus respectivas características principales* representadas gráficamente. Estos diagramas los puedes obtener **mediante este programa**.
 
-[![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/Df1Q9jzY/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/SjNz8GCW)
+[![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/tTTN6WGQ/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/3ysG5ywn)
 <p align="center">
  Diagrama de radiación producto de un arreglo lineal de 4 elementos, distancia inter-elemento de 0.5λ y desfasaje entre elementos de 30°.
 </p> <br>
