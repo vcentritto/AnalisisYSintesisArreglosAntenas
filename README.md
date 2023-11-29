@@ -8,7 +8,7 @@ Este código en MATLAB realiza el análisis y síntesis de arreglos de antenas l
 </p> 
 
 ## Análisis de arreglos de antenas
-Este código permite generar y estudiar diagramas de radiación de arreglos lineales y en el plano, conociendo del arreglo: *el número de elementos*, *la distancia inter-elemento*, *la amplitud de cada elemento*, el *el desfasaje progresivo entre elementos* y la *distribución geometríca de los elementos*.
+Este código permite generar y estudiar diagramas de radiación de arreglos lineales y en el plano, conociendo del arreglo: *el número de elementos*, *la distancia inter-elemento*, *la amplitud de cada elemento*, el *el desfasaje progresivo entre elementos* y la *distribución geométrica de los elementos*.
 
 Además, con este código se calculan las **características más importantes de un diagrama de radiación** de forma numérica y gráfica. Algunas de esas características son las siguientes: 
 - Posición del lóbulo principal.
@@ -20,7 +20,7 @@ Además, con este código se calculan las **características más importantes de
 
 A continuación, se muestran *diagramas de radiación con sus respectivas características principales* representadas gráficamente. Estos diagramas los puedes obtener **mediante este programa**.
 
-[![Lineal-cartesianas-escala-lineal.png](https://i.postimg.cc/tTTN6WGQ/Lineal-cartesianas-escala-lineal.png)](https://postimg.cc/3ysG5ywn)
+[![Lineal-ensanchamiento.png](https://i.postimg.cc/85tx9HXn/Lineal-ensanchamiento.png)](https://postimg.cc/Q9K6Wp3p)
 <p align="center">
  Diagrama de radiación producto de un arreglo lineal de 4 elementos, distancia inter-elemento de 0.5λ y desfasaje entre elementos de 30°.
 </p> <br>
