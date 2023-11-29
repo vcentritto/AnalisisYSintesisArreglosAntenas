@@ -77,7 +77,7 @@ Este método permite generar un **nivel relativo de lóbulos laterales específi
 [![Plano-cartesianas-escala-logaritmica.png](https://i.postimg.cc/2yK6Bx5L/Plano-cartesianas-escala-logaritmica.png)](https://postimg.cc/JHjmfZZR)
 <p align="center">
  Diagrama de radiación con NRLL de -20 dB, mediante las 8 excitaciones complejas calculadas por este código. <br>
- Producto de un arreglo planar de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy), θ₀ = 35° y ϕ₀ = -15°.
+ Producto de arreglo planar de 8 elementos (Nx = Ny), distancia inter-elemento de 0.5λ (dx = dy), θ₀ = 35° y ϕ₀ = -15°.
 </p> <br>
 
 ### Método de Laxpati para arreglos en el plano
