@@ -100,6 +100,6 @@ Debes descargar la carpeta *Programa de análisis y síntesis de arreglos lineal
  Menú Principal del programa
 </p> <br>
 
-- **MANUAL DE USUARIO**: Si tienes dudas sobre el código o sobre cómo ejecutar los módulos del programa, este manual te puede servir de ayuda [Manual de Usuario](https://www.canva.com/design/DAF1BL1ZXV4/0zUC3pn7QsMQb4GRPp4Fbg/edit?utm_content=DAF1BL1ZXV4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
+- **MANUAL DE USUARIO**: Si tienes dudas sobre el código o sobre cómo ejecutar los módulos del programa, este manual te puede servir de ayuda [Manual de Usuario](https://drive.google.com/file/d/1uJaicZ2UlUM8U6-OaLfF1C3BuTdOWRvO/view?usp=drive_link) <br>
   También puedes descargar el PDF desde este repositorio.
 
